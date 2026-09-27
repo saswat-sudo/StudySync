@@ -70,7 +70,7 @@ The navigation page provides links to the four subjects, which load their respec
 
 For example, the subject navigation contains links to Advanced Web Programming, Industrial IoT and Automation, Mathematical Problem Solving, and Operating System Concepts.
 
-## 📝 Academic Content
+##  Academic Content
 
 ### Advanced Web Programming
 
